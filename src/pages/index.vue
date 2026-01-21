@@ -1,10 +1,12 @@
 <template>
   <v-container class="py-12">
     <div class="text-center mb-12">
-      <h1 class="text-h2 font-weight-black mb-4 gradient-text">
+      <h1 class="text-h4 text-sm-h2 font-weight-black mb-4 gradient-text">
         Linux 命令助手
       </h1>
-      <p class="text-h6 text-medium-emphasis">高效搜索和理解 Linux 命令。</p>
+      <p class="text-body-1 text-sm-h6 text-medium-emphasis">
+        高效搜索和理解 Linux 命令。
+      </p>
     </div>
 
     <v-row justify="center">
@@ -66,7 +68,7 @@
 
           <v-textarea
             v-model="smartQueryInput"
-            placeholder="例如: tar -czvf archive.tar.gz /path/to/files | ssh user@host 'cat > backup.tar.gz'"
+            placeholder="例如: tar -czvf archive.tar.gz"
             variant="outlined"
             rounded="lg"
             rows="4"

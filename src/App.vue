@@ -5,7 +5,7 @@
         <v-btn
           to="/"
           variant="text"
-          class="text-none font-weight-bold text-h6"
+          class="text-none font-weight-bold text-subtitle-1 text-sm-h6"
           color="primary"
           rounded="lg"
         >
@@ -23,15 +23,25 @@
     <v-main class="bg-grey-lighten-4">
       <router-view v-slot="{ Component }">
         <transition name="fade" mode="out-in">
-          <component :is="Component" />
+          <component :is="Component" v-if="isReady" />
         </transition>
       </router-view>
     </v-main>
+
+    <LoadingScreen />
   </v-app>
 </template>
 
 <script lang="ts" setup>
-//
+import LoadingScreen from "@/components/LoadingScreen.vue";
+import { useAppInit } from "@/composables/useAppInit";
+import { useCommandSearch } from "@/composables/useCommandSearch";
+
+const { isReady } = useAppInit();
+const { init } = useCommandSearch();
+
+// Trigger initial load
+init();
 </script>
 
 <style>
