@@ -1,0 +1,3057 @@
+[
+  {
+    "n": "7z",
+    "d": "拥有极高压缩比的开源压缩软件。",
+    "p": "7z"
+  },
+  {
+    "n": "ab",
+    "d": "Apache服务器的性能测试工具",
+    "p": "ab"
+  },
+  {
+    "n": "accept",
+    "d": "指示打印系统接受发往指定目标打印机的打印任务",
+    "p": "accept"
+  },
+  {
+    "n": "ack",
+    "d": "比grep好用的文本搜索工具",
+    "p": "ack"
+  },
+  {
+    "n": "ag",
+    "d": "ack 的升级版，C语言编写，更快更人性化",
+    "p": "ag"
+  },
+  {
+    "n": "alias",
+    "d": "定义或显示别名。",
+    "p": "alias"
+  },
+  {
+    "n": "apachectl",
+    "d": "Apache服务器前端控制工具",
+    "p": "apachectl"
+  },
+  {
+    "n": "apk",
+    "d": "Alpine Linux 下的包管理工具",
+    "p": "apk"
+  },
+  {
+    "n": "apropos",
+    "d": "在 whatis 数据库中查找字符串",
+    "p": "apropos"
+  },
+  {
+    "n": "apt-get",
+    "d": "Debian Linux发行版中的APT软件包管理工具",
+    "p": "apt-get"
+  },
+  {
+    "n": "apt-key",
+    "d": "管理Debian Linux系统中的软件包密钥",
+    "p": "apt-key"
+  },
+  {
+    "n": "apt-sortpkgs",
+    "d": "Debian Linux下对软件包索引文件进行排序的工具",
+    "p": "apt-sortpkgs"
+  },
+  {
+    "n": "aptitude",
+    "d": "Debian Linux系统中软件包管理工具",
+    "p": "aptitude"
+  },
+  {
+    "n": "ar",
+    "d": "建立或修改备存文件，或是从备存文件中抽取文件",
+    "p": "ar"
+  },
+  {
+    "n": "arch",
+    "d": "显示当前主机的硬件架构类型",
+    "p": "arch"
+  },
+  {
+    "n": "arj",
+    "d": "用于创建和管理.arj压缩包",
+    "p": "arj"
+  },
+  {
+    "n": "arp",
+    "d": "arp 命令用于显示和修改 IP 到 MAC 转换表",
+    "p": "arp"
+  },
+  {
+    "n": "arpd",
+    "d": "收集免费ARP信息",
+    "p": "arpd"
+  },
+  {
+    "n": "arping",
+    "d": "通过发送ARP协议报文测试网络",
+    "p": "arping"
+  },
+  {
+    "n": "arptables",
+    "d": "管理ARP包过滤规则表",
+    "p": "arptables"
+  },
+  {
+    "n": "arpwatch",
+    "d": "监听网络上ARP的记录",
+    "p": "arpwatch"
+  },
+  {
+    "n": "as",
+    "d": "汇编语言编译器",
+    "p": "as"
+  },
+  {
+    "n": "at",
+    "d": "在指定时间执行一个任务",
+    "p": "at"
+  },
+  {
+    "n": "atop",
+    "d": "监控Linux系统资源与进程的工具",
+    "p": "atop"
+  },
+  {
+    "n": "atq",
+    "d": "列出当前用户的at任务列表",
+    "p": "atq"
+  },
+  {
+    "n": "atrm",
+    "d": "删除待执行任务队列中的指定任务",
+    "p": "atrm"
+  },
+  {
+    "n": "awk",
+    "d": "文本和数据进行处理的编程语言",
+    "p": "awk"
+  },
+  {
+    "n": "axel",
+    "d": "多线程下载工具",
+    "p": "axel"
+  },
+  {
+    "n": "badblocks",
+    "d": "查找磁盘中损坏的区块",
+    "p": "badblocks"
+  },
+  {
+    "n": "base64",
+    "d": "base64 编码/解码文件或标准输入输出",
+    "p": "base64"
+  },
+  {
+    "n": "basename",
+    "d": "打印目录或者文件的基本名称",
+    "p": "basename"
+  },
+  {
+    "n": "batch",
+    "d": "在系统不繁忙的时候执行定时任务",
+    "p": "batch"
+  },
+  {
+    "n": "bc",
+    "d": "算术操作精密运算工具",
+    "p": "bc"
+  },
+  {
+    "n": "bg",
+    "d": "将前台终端作业移动到后台运行",
+    "p": "bg"
+  },
+  {
+    "n": "bind",
+    "d": "显示或设置键盘按键与其相关的功能",
+    "p": "bind"
+  },
+  {
+    "n": "blkid",
+    "d": "查看块设备的文件系统类型、LABEL、UUID等信息",
+    "p": "blkid"
+  },
+  {
+    "n": "blockdev",
+    "d": "从命令行调用区块设备控制程序",
+    "p": "blockdev"
+  },
+  {
+    "n": "bmodinfo",
+    "d": "显示给定模块的详细信息",
+    "p": "bmodinfo"
+  },
+  {
+    "n": "break",
+    "d": "结束for，while或until循环。",
+    "p": "break"
+  },
+  {
+    "n": "builtin",
+    "d": "执行bash内建命令。",
+    "p": "builtin"
+  },
+  {
+    "n": "bunzip2",
+    "d": "可解压缩.bz2格式的压缩文件。",
+    "p": "bunzip2"
+  },
+  {
+    "n": "bye",
+    "d": "命令用于中断FTP连线并结束程序",
+    "p": "bye"
+  },
+  {
+    "n": "bzcat",
+    "d": "不解压，直接查看指定的.bz2文件",
+    "p": "bzcat"
+  },
+  {
+    "n": "bzcmp",
+    "d": "比较两个压缩包中的文件",
+    "p": "bzcmp"
+  },
+  {
+    "n": "bzdiff",
+    "d": "直接比较两个.bz2压缩包中文件的不同",
+    "p": "bzdiff"
+  },
+  {
+    "n": "bzgrep",
+    "d": "使用正则表达式搜索.bz2压缩包中文件",
+    "p": "bzgrep"
+  },
+  {
+    "n": "bzip2",
+    "d": "将文件压缩成bz2格式",
+    "p": "bzip2"
+  },
+  {
+    "n": "bzip2recover",
+    "d": "恢复被破坏的.bz2压缩包中的文件",
+    "p": "bzip2recover"
+  },
+  {
+    "n": "bzless",
+    "d": "增强.bz2压缩包查看器",
+    "p": "bzless"
+  },
+  {
+    "n": "bzmore",
+    "d": "查看bzip2压缩过的文本文件的内容",
+    "p": "bzmore"
+  },
+  {
+    "n": "cal",
+    "d": "显示当前日历或指定日期的日历",
+    "p": "cal"
+  },
+  {
+    "n": "cancel",
+    "d": "取消已存在的打印任务",
+    "p": "cancel"
+  },
+  {
+    "n": "cat",
+    "d": "连接多个文件并打印到标准输出。",
+    "p": "cat"
+  },
+  {
+    "n": "cd",
+    "d": "切换用户当前工作目录。",
+    "p": "cd"
+  },
+  {
+    "n": "cdrecord",
+    "d": "Linux系统下光盘刻录功能命令",
+    "p": "cdrecord"
+  },
+  {
+    "n": "chage",
+    "d": "修改帐号和密码的有效期限",
+    "p": "chage"
+  },
+  {
+    "n": "chattr",
+    "d": "用来改变文件属性",
+    "p": "chattr"
+  },
+  {
+    "n": "chcon",
+    "d": "修改对象（文件）的安全上下文",
+    "p": "chcon"
+  },
+  {
+    "n": "chfn",
+    "d": "用来改变finger命令显示的信息",
+    "p": "chfn"
+  },
+  {
+    "n": "chgrp",
+    "d": "用来变更文件或目录的所属群组",
+    "p": "chgrp"
+  },
+  {
+    "n": "chkconfig",
+    "d": "检查或设置系统的各种服务",
+    "p": "chkconfig"
+  },
+  {
+    "n": "chmod",
+    "d": "用来变更文件或目录的权限",
+    "p": "chmod"
+  },
+  {
+    "n": "chown",
+    "d": "用来变更文件或目录的拥有者或所属群组",
+    "p": "chown"
+  },
+  {
+    "n": "chpasswd",
+    "d": "批量更新用户口令的工具",
+    "p": "chpasswd"
+  },
+  {
+    "n": "chroot",
+    "d": "把根目录换成指定的目的目录",
+    "p": "chroot"
+  },
+  {
+    "n": "chsh",
+    "d": "用来更换登录系统时使用的shell",
+    "p": "chsh"
+  },
+  {
+    "n": "cksum",
+    "d": "检查文件的CRC是否正确",
+    "p": "cksum"
+  },
+  {
+    "n": "clear",
+    "d": "清除当前屏幕终端上的任何信息",
+    "p": "clear"
+  },
+  {
+    "n": "clock",
+    "d": "用于调整 RTC 时间",
+    "p": "clock"
+  },
+  {
+    "n": "clockdiff",
+    "d": "检测两台linux主机的时间差",
+    "p": "clockdiff"
+  },
+  {
+    "n": "cmp",
+    "d": "比较两个文件是否有差异",
+    "p": "cmp"
+  },
+  {
+    "n": "col",
+    "d": "过滤控制字符",
+    "p": "col"
+  },
+  {
+    "n": "colrm",
+    "d": "删除文件中的指定列",
+    "p": "colrm"
+  },
+  {
+    "n": "column",
+    "d": "按列格式化输出文件",
+    "p": "column"
+  },
+  {
+    "n": "comm",
+    "d": "按行比较两个已排序的文件。",
+    "p": "comm"
+  },
+  {
+    "n": "command",
+    "d": "调用并执行指定的命令",
+    "p": "command"
+  },
+  {
+    "n": "compress",
+    "d": "使用Lempress-Ziv编码压缩数据文件",
+    "p": "compress"
+  },
+  {
+    "n": "consoletype",
+    "d": "输出已连接的终端类型",
+    "p": "consoletype"
+  },
+  {
+    "n": "continue",
+    "d": "结束本次循环，继续执行下一个for，while或until循环。",
+    "p": "continue"
+  },
+  {
+    "n": "convertquota",
+    "d": "把老的配额文件转换为新的格式",
+    "p": "convertquota"
+  },
+  {
+    "n": "cp",
+    "d": "将源文件或目录复制到目标文件或目录中",
+    "p": "cp"
+  },
+  {
+    "n": "cpio",
+    "d": "用来建立、还原备份档的工具程序",
+    "p": "cpio"
+  },
+  {
+    "n": "createrepo",
+    "d": "创建YUM仓库",
+    "p": "createrepo"
+  },
+  {
+    "n": "crontab",
+    "d": "提交和管理用户的需要周期性执行的任务",
+    "p": "crontab"
+  },
+  {
+    "n": "csplit",
+    "d": "将一个大文件分割成小的碎片文件",
+    "p": "csplit"
+  },
+  {
+    "n": "cu",
+    "d": "用于连接另一个系统主机",
+    "p": "cu"
+  },
+  {
+    "n": "cupsdisable",
+    "d": "停止指定的打印机",
+    "p": "cupsdisable"
+  },
+  {
+    "n": "cupsenable",
+    "d": "启动指定的打印机",
+    "p": "cupsenable"
+  },
+  {
+    "n": "curl",
+    "d": "利用URL规则在命令行下工作的文件传输工具",
+    "p": "curl"
+  },
+  {
+    "n": "cut",
+    "d": "连接文件并打印到标准输出设备上",
+    "p": "cut"
+  },
+  {
+    "n": "date",
+    "d": "显示或设置系统时间与日期",
+    "p": "date"
+  },
+  {
+    "n": "dc",
+    "d": "任意精度计算器",
+    "p": "dc"
+  },
+  {
+    "n": "dd",
+    "d": "复制文件并对原文件的内容进行转换和格式化处理",
+    "p": "dd"
+  },
+  {
+    "n": "declare",
+    "d": "声明变量，设置或显示变量的值和属性。",
+    "p": "declare"
+  },
+  {
+    "n": "depmod",
+    "d": "分析可载入模块的相依性",
+    "p": "depmod"
+  },
+  {
+    "n": "df",
+    "d": "显示磁盘的相关信息",
+    "p": "df"
+  },
+  {
+    "n": "dhclient",
+    "d": "动态获取或释放IP地址",
+    "p": "dhclient"
+  },
+  {
+    "n": "dhcpd",
+    "d": "运行DHCP服务器",
+    "p": "dhcpd"
+  },
+  {
+    "n": "dhcrelay",
+    "d": "使用dhcrelay命令可以提供中继DHCP和BOOTP请求",
+    "p": "dhcrelay"
+  },
+  {
+    "n": "diff",
+    "d": "比较给定的两个文件的不同",
+    "p": "diff"
+  },
+  {
+    "n": "diff3",
+    "d": "比较3个文件不同的地方",
+    "p": "diff3"
+  },
+  {
+    "n": "diffstat",
+    "d": "显示diff命令输出信息的柱状图",
+    "p": "diffstat"
+  },
+  {
+    "n": "dig",
+    "d": "域名查询工具",
+    "p": "dig"
+  },
+  {
+    "n": "dircolors",
+    "d": "置ls命令在显示目录或文件时所用的色彩",
+    "p": "dircolors"
+  },
+  {
+    "n": "dirname",
+    "d": "去除文件名中的非目录部分",
+    "p": "dirname"
+  },
+  {
+    "n": "dirs",
+    "d": "显示目录堆栈。",
+    "p": "dirs"
+  },
+  {
+    "n": "disown",
+    "d": "从当前的shell中移除作业。",
+    "p": "disown"
+  },
+  {
+    "n": "dmesg",
+    "d": "显示Linux系统启动信息",
+    "p": "dmesg"
+  },
+  {
+    "n": "dmidecode",
+    "d": "在Linux系统下获取有关硬件方面的信息",
+    "p": "dmidecode"
+  },
+  {
+    "n": "dnf",
+    "d": "新一代的RPM软件包管理器",
+    "p": "dnf"
+  },
+  {
+    "n": "dnsdomainname",
+    "d": "定义DNS系统中FQDN名称的域名",
+    "p": "dnsdomainname"
+  },
+  {
+    "n": "docker",
+    "d": "容器化技术，可以将应用程序及其依赖项打包到一个可移植的容器中，使其可以在不同的环境中运行",
+    "p": "docker"
+  },
+  {
+    "n": "domainname",
+    "d": "显示和设置系统的NIS域名",
+    "p": "domainname"
+  },
+  {
+    "n": "dos2unix",
+    "d": "将DOS格式文本文件转换成Unix格式",
+    "p": "dos2unix"
+  },
+  {
+    "n": "dpkg-deb",
+    "d": "Debian Linux下的软件包管理工具",
+    "p": "dpkg-deb"
+  },
+  {
+    "n": "dpkg-divert",
+    "d": "Debian Linux中创建并管理一个转向列表",
+    "p": "dpkg-divert"
+  },
+  {
+    "n": "dpkg-preconfigure",
+    "d": "Debian Linux中软件包安装之前询问问题",
+    "p": "dpkg-preconfigure"
+  },
+  {
+    "n": "dpkg-query",
+    "d": "Debian Linux中软件包的查询工具",
+    "p": "dpkg-query"
+  },
+  {
+    "n": "dpkg-reconfigure",
+    "d": "Debian Linux中重新配制一个已经安装的软件包",
+    "p": "dpkg-reconfigure"
+  },
+  {
+    "n": "dpkg-split",
+    "d": "Debian Linux中将大软件包分割成小包",
+    "p": "dpkg-split"
+  },
+  {
+    "n": "dpkg-statoverride",
+    "d": "Debian Linux中覆盖文件的所有权和模式",
+    "p": "dpkg-statoverride"
+  },
+  {
+    "n": "dpkg-trigger",
+    "d": "Debian Linux下的软件包触发器",
+    "p": "dpkg-trigger"
+  },
+  {
+    "n": "dpkg",
+    "d": "Debian Linux系统上安装、创建和管理软件包",
+    "p": "dpkg"
+  },
+  {
+    "n": "dris",
+    "d": "显示和清空目录堆栈中的内容",
+    "p": "dris"
+  },
+  {
+    "n": "dstat",
+    "d": "通用的系统资源统计工具",
+    "p": "dstat"
+  },
+  {
+    "n": "du",
+    "d": "显示每个文件和目录的磁盘使用空间",
+    "p": "du"
+  },
+  {
+    "n": "dump",
+    "d": "用于备份ext2或者ext3文件系统",
+    "p": "dump"
+  },
+  {
+    "n": "e2fsck",
+    "d": "用于检查第二扩展文件系统的完整性",
+    "p": "e2fsck"
+  },
+  {
+    "n": "e2label",
+    "d": "设置第二扩展文件系统的卷标",
+    "p": "e2label"
+  },
+  {
+    "n": "echo",
+    "d": "输出指定的字符串或者变量",
+    "p": "echo"
+  },
+  {
+    "n": "ed",
+    "d": "单行纯文本编辑器",
+    "p": "ed"
+  },
+  {
+    "n": "edquota",
+    "d": "用于编辑指定用户或工作组磁盘配额",
+    "p": "edquota"
+  },
+  {
+    "n": "egrep",
+    "d": "在文件内查找指定的字符串",
+    "p": "egrep"
+  },
+  {
+    "n": "eject",
+    "d": "用来退出抽取式设备",
+    "p": "eject"
+  },
+  {
+    "n": "elinks",
+    "d": "纯文本界面的WWW浏览器",
+    "p": "elinks"
+  },
+  {
+    "n": "elm",
+    "d": "纯文本邮件客户端程序",
+    "p": "elm"
+  },
+  {
+    "n": "emacs",
+    "d": "功能强大的全屏文本编辑器",
+    "p": "emacs"
+  },
+  {
+    "n": "enable",
+    "d": "启动或禁用shell内建命令",
+    "p": "enable"
+  },
+  {
+    "n": "env",
+    "d": "显示系统中已存在的环境变量",
+    "p": "env"
+  },
+  {
+    "n": "ethtool",
+    "d": "显示或修改以太网卡的配置信息",
+    "p": "ethtool"
+  },
+  {
+    "n": "ex",
+    "d": "启动vim编辑器的ex编辑模式",
+    "p": "ex"
+  },
+  {
+    "n": "exec",
+    "d": "调用并执行指定的命令",
+    "p": "exec"
+  },
+  {
+    "n": "exit",
+    "d": "退出当前的shell。",
+    "p": "exit"
+  },
+  {
+    "n": "expand",
+    "d": "将文件的制表符转换为空白字符",
+    "p": "expand"
+  },
+  {
+    "n": "export",
+    "d": "为shell变量或函数设置导出属性。",
+    "p": "export"
+  },
+  {
+    "n": "exportfs",
+    "d": "管理NFS共享文件系统列表",
+    "p": "exportfs"
+  },
+  {
+    "n": "expr",
+    "d": "一款表达式计算工具",
+    "p": "expr"
+  },
+  {
+    "n": "false",
+    "d": "返回状态为失败。",
+    "p": "false"
+  },
+  {
+    "n": "fc",
+    "d": "显示历史列表中的命令或修改指定的历史命令并执行。",
+    "p": "fc"
+  },
+  {
+    "n": "fdisk",
+    "d": "查看磁盘使用情况和磁盘分区",
+    "p": "fdisk"
+  },
+  {
+    "n": "fg",
+    "d": "将后台作业移动到前台终端运行",
+    "p": "fg"
+  },
+  {
+    "n": "fgrep",
+    "d": "为文件搜索文字字符串",
+    "p": "fgrep"
+  },
+  {
+    "n": "figlet",
+    "d": "字符串转为 “字画符”。",
+    "p": "figlet"
+  },
+  {
+    "n": "file",
+    "d": "用来探测给定文件的类型",
+    "p": "file"
+  },
+  {
+    "n": "find",
+    "d": "在指定目录下查找文件",
+    "p": "find"
+  },
+  {
+    "n": "findfs",
+    "d": "标签或UUID查找文件系统",
+    "p": "findfs"
+  },
+  {
+    "n": "finger",
+    "d": "用于查找并显示用户信息",
+    "p": "finger"
+  },
+  {
+    "n": "firewall-cmd",
+    "d": "Linux上新用的防火墙软件，跟iptables差不多的工具",
+    "p": "firewall-cmd"
+  },
+  {
+    "n": "fishshell",
+    "d": "比 bash 更好用的 shell",
+    "p": "fishshell"
+  },
+  {
+    "n": "fmt",
+    "d": "读取文件后优化处理并输出",
+    "p": "fmt"
+  },
+  {
+    "n": "fold",
+    "d": "控制文件内容输出时所占用的屏幕宽度",
+    "p": "fold"
+  },
+  {
+    "n": "fping",
+    "d": "fping检测主机是否存在",
+    "p": "fping"
+  },
+  {
+    "n": "free",
+    "d": "显示内存的使用情况",
+    "p": "free"
+  },
+  {
+    "n": "fsck",
+    "d": "fsck（英文全拼：file system check）命令检查并且试图修复文件系统中的错误",
+    "p": "fsck"
+  },
+  {
+    "n": "ftp",
+    "d": "用来设置文件系统相关功能",
+    "p": "ftp"
+  },
+  {
+    "n": "ftpcount",
+    "d": "显示目前已FTP登入的用户人数",
+    "p": "ftpcount"
+  },
+  {
+    "n": "ftpshut",
+    "d": "在指定的时间关闭FTP服务器",
+    "p": "ftpshut"
+  },
+  {
+    "n": "ftptop",
+    "d": "proftpd服务器的连接状态",
+    "p": "ftptop"
+  },
+  {
+    "n": "ftpwho",
+    "d": "显示当前每个ftp会话信息",
+    "p": "ftpwho"
+  },
+  {
+    "n": "fuser",
+    "d": "使用文件或文件结构识别进程",
+    "p": "fuser"
+  },
+  {
+    "n": "gcc",
+    "d": "基于C/C++的编译器",
+    "p": "gcc"
+  },
+  {
+    "n": "gcov",
+    "d": "测试程序的代码覆盖率的工具",
+    "p": "gcov"
+  },
+  {
+    "n": "gdb",
+    "d": "功能强大的程序调试器",
+    "p": "gdb"
+  },
+  {
+    "n": "getcap",
+    "d": "显示文件的能力（capabilities）",
+    "p": "getcap"
+  },
+  {
+    "n": "getenforce",
+    "d": "显示当前SELinux的应用模式，是强制、执行还是停用",
+    "p": "getenforce"
+  },
+  {
+    "n": "getent",
+    "d": "查询 DNS 名称服务器中的命名空间",
+    "p": "getent"
+  },
+  {
+    "n": "getfacl",
+    "d": "获取文件访问控制列表(access control lists)",
+    "p": "getfacl"
+  },
+  {
+    "n": "getsebool",
+    "d": "查询SElinux策略内各项规则的布尔值",
+    "p": "getsebool"
+  },
+  {
+    "n": "get_module",
+    "d": "获取Linux内核模块的详细信息",
+    "p": "get_module"
+  },
+  {
+    "n": "git",
+    "d": "是目前世界上最先进的分布式版本控制系统",
+    "p": "git"
+  },
+  {
+    "n": "gpasswd",
+    "d": "Linux下工作组文件的管理工具",
+    "p": "gpasswd"
+  },
+  {
+    "n": "gpg",
+    "d": "可用于签名、检查、加密或解密的工具",
+    "p": "gpg"
+  },
+  {
+    "n": "gpm",
+    "d": "提供文字模式下的滑鼠事件处理",
+    "p": "gpm"
+  },
+  {
+    "n": "grep",
+    "d": "强大的文本搜索工具",
+    "p": "grep"
+  },
+  {
+    "n": "groupadd",
+    "d": "用于创建一个新的工作组",
+    "p": "groupadd"
+  },
+  {
+    "n": "groupdel",
+    "d": "用于删除指定的工作组",
+    "p": "groupdel"
+  },
+  {
+    "n": "groupmems",
+    "d": "管理用户主要组的成员",
+    "p": "groupmems"
+  },
+  {
+    "n": "groupmod",
+    "d": "更改群组识别码或名称",
+    "p": "groupmod"
+  },
+  {
+    "n": "groups",
+    "d": "打印指定用户所在组的名称。",
+    "p": "groups"
+  },
+  {
+    "n": "grpck",
+    "d": "用于验证组文件的完整性",
+    "p": "grpck"
+  },
+  {
+    "n": "grpconv",
+    "d": "用来开启群组的投影密码",
+    "p": "grpconv"
+  },
+  {
+    "n": "grpunconv",
+    "d": "用来关闭群组的投影密码",
+    "p": "grpunconv"
+  },
+  {
+    "n": "grub",
+    "d": "多重引导程序grub的命令行shell工具",
+    "p": "grub"
+  },
+  {
+    "n": "grub2-mkconfig",
+    "d": "生成 grub.cfg 配置文件。",
+    "p": "grub2-mkconfig"
+  },
+  {
+    "n": "grub2-set-default",
+    "d": "设置系统默认的启动内核",
+    "p": "grub2-set-default"
+  },
+  {
+    "n": "gunzip",
+    "d": "用来解压缩文件",
+    "p": "gunzip"
+  },
+  {
+    "n": "gzexe",
+    "d": "用来压缩可执行文件",
+    "p": "gzexe"
+  },
+  {
+    "n": "gzip",
+    "d": "用来压缩文件",
+    "p": "gzip"
+  },
+  {
+    "n": "halt",
+    "d": "关闭正在运行的Linux操作系统",
+    "p": "halt"
+  },
+  {
+    "n": "hcitool",
+    "d": "hcitool是一个Linux命令行工具，用于管理和调试蓝牙设备。它可以用于扫描周围的蓝牙设备、连接到蓝牙设备发送命令和数据包等。",
+    "p": "hcitool"
+  },
+  {
+    "n": "hdparm",
+    "d": "显示与设定硬盘的参数",
+    "p": "hdparm"
+  },
+  {
+    "n": "head",
+    "d": "显示文件的开头部分。",
+    "p": "head"
+  },
+  {
+    "n": "help",
+    "d": "该命令是bash内建命令，用于显示bash内建命令的帮助信息。",
+    "p": "help"
+  },
+  {
+    "n": "hexdump",
+    "d": "显示文件十六进制格式",
+    "p": "hexdump"
+  },
+  {
+    "n": "history",
+    "d": "显示或操作历史列表。",
+    "p": "history"
+  },
+  {
+    "n": "host",
+    "d": "常用的分析域名查询工具",
+    "p": "host"
+  },
+  {
+    "n": "hostid",
+    "d": "显示当前主机的十六进制数字标识。",
+    "p": "hostid"
+  },
+  {
+    "n": "hostname",
+    "d": "显示和设置系统的主机名",
+    "p": "hostname"
+  },
+  {
+    "n": "hostnamectl",
+    "d": "查询或更改系统主机名",
+    "p": "hostnamectl"
+  },
+  {
+    "n": "hping3",
+    "d": "测试网络及主机的安全",
+    "p": "hping3"
+  },
+  {
+    "n": "htdigest",
+    "d": "Apache服务器内置工具",
+    "p": "htdigest"
+  },
+  {
+    "n": "htop",
+    "d": "[非内部命令]一个互动的进程查看器，可以动态观察系统进程状况",
+    "p": "htop"
+  },
+  {
+    "n": "htpasswd",
+    "d": "apache服务器创建密码认证文件",
+    "p": "htpasswd"
+  },
+  {
+    "n": "hwclock",
+    "d": "显示与设定硬件时钟",
+    "p": "hwclock"
+  },
+  {
+    "n": "iconv",
+    "d": "转换文件的编码方式",
+    "p": "iconv"
+  },
+  {
+    "n": "id",
+    "d": "打印真实以及有效的用户和所在组的信息",
+    "p": "id"
+  },
+  {
+    "n": "ifcfg",
+    "d": "置Linux中的网络接口参数",
+    "p": "ifcfg"
+  },
+  {
+    "n": "ifconfig",
+    "d": "配置和显示Linux系统网卡的网络参数",
+    "p": "ifconfig"
+  },
+  {
+    "n": "ifdown",
+    "d": "禁用指定的网络接口",
+    "p": "ifdown"
+  },
+  {
+    "n": "ifstat",
+    "d": "统计网络接口流量状态",
+    "p": "ifstat"
+  },
+  {
+    "n": "iftop",
+    "d": "一款实时流量监控工具",
+    "p": "iftop"
+  },
+  {
+    "n": "ifup",
+    "d": "激活指定的网络接口",
+    "p": "ifup"
+  },
+  {
+    "n": "indent",
+    "d": "格式化C语言的源文件",
+    "p": "indent"
+  },
+  {
+    "n": "info",
+    "d": "Linux下info格式的帮助指令",
+    "p": "info"
+  },
+  {
+    "n": "init",
+    "d": "init进程是所有Linux进程的父进程",
+    "p": "init"
+  },
+  {
+    "n": "inotifywait",
+    "d": "异步文件系统监控机制",
+    "p": "inotifywait"
+  },
+  {
+    "n": "insmod",
+    "d": "将给定的模块加载到内核中",
+    "p": "insmod"
+  },
+  {
+    "n": "install",
+    "d": "安装或升级软件或备份数据",
+    "p": "install"
+  },
+  {
+    "n": "iostat",
+    "d": "监视系统输入输出设备和CPU的使用情况",
+    "p": "iostat"
+  },
+  {
+    "n": "iotop",
+    "d": "用来监视磁盘I/O使用状况的工具",
+    "p": "iotop"
+  },
+  {
+    "n": "ip",
+    "d": "网络配置工具",
+    "p": "ip"
+  },
+  {
+    "n": "ip6tables-restore",
+    "d": "还原ip6tables表",
+    "p": "ip6tables-restore"
+  },
+  {
+    "n": "ip6tables-save",
+    "d": "保存ip6tables表配置",
+    "p": "ip6tables-save"
+  },
+  {
+    "n": "ip6tables",
+    "d": "linux中防火墙软件",
+    "p": "ip6tables"
+  },
+  {
+    "n": "ipcalc",
+    "d": "简单的IP地址计算器",
+    "p": "ipcalc"
+  },
+  {
+    "n": "ipcrm",
+    "d": "删除消息队列、信号集、或者共享内存标识",
+    "p": "ipcrm"
+  },
+  {
+    "n": "ipcs",
+    "d": "分析消息队列共享内存和信号量",
+    "p": "ipcs"
+  },
+  {
+    "n": "iperf",
+    "d": "网络性能测试工具",
+    "p": "iperf"
+  },
+  {
+    "n": "iptables-restore",
+    "d": "还原iptables表的配置",
+    "p": "iptables-restore"
+  },
+  {
+    "n": "iptables-save",
+    "d": "备份iptables的表配置",
+    "p": "iptables-save"
+  },
+  {
+    "n": "iptables",
+    "d": "Linux上常用的防火墙软件",
+    "p": "iptables"
+  },
+  {
+    "n": "iptraf",
+    "d": "实时地监视网卡流量",
+    "p": "iptraf"
+  },
+  {
+    "n": "iptstate",
+    "d": "显示iptables的工作状态",
+    "p": "iptstate"
+  },
+  {
+    "n": "iscsiadm",
+    "d": "管理iSCSI连接",
+    "p": "iscsiadm"
+  },
+  {
+    "n": "ispell",
+    "d": "检查文件中出现的拼写错误",
+    "p": "ispell"
+  },
+  {
+    "n": "jed",
+    "d": "主要用于编辑代码的编辑器",
+    "p": "jed"
+  },
+  {
+    "n": "jobs",
+    "d": "显示作业的状态。",
+    "p": "jobs"
+  },
+  {
+    "n": "joe",
+    "d": "强大的纯文本编辑器",
+    "p": "joe"
+  },
+  {
+    "n": "join",
+    "d": "两个文件中指定栏位内容相同的行连接起来",
+    "p": "join"
+  },
+  {
+    "n": "journalctl",
+    "d": "检索 systemd 日志，是 CentOS 7 才有的工具。",
+    "p": "journalctl"
+  },
+  {
+    "n": "jq",
+    "d": "一个灵活的轻量级命令行JSON处理器",
+    "p": "jq"
+  },
+  {
+    "n": "jwhois",
+    "d": "whois 客户端服务",
+    "p": "jwhois"
+  },
+  {
+    "n": "kernelversion",
+    "d": "打印当前内核的主版本号",
+    "p": "kernelversion"
+  },
+  {
+    "n": "kexec",
+    "d": "从当前正在运行的内核引导到一个新内核",
+    "p": "kexec"
+  },
+  {
+    "n": "kill",
+    "d": "发送信号到进程。",
+    "p": "kill"
+  },
+  {
+    "n": "killall",
+    "d": "使用进程的名称来杀死一组进程",
+    "p": "killall"
+  },
+  {
+    "n": "last",
+    "d": "列出目前与过去登入系统的用户相关信息",
+    "p": "last"
+  },
+  {
+    "n": "lastb",
+    "d": "列出登入系统失败的用户相关信息",
+    "p": "lastb"
+  },
+  {
+    "n": "lastlog",
+    "d": "显示系统中所有用户最近一次登录信息",
+    "p": "lastlog"
+  },
+  {
+    "n": "ld",
+    "d": "将目标文件连接为可执行程序",
+    "p": "ld"
+  },
+  {
+    "n": "ldconfig",
+    "d": "动态链接库管理命令",
+    "p": "ldconfig"
+  },
+  {
+    "n": "ldd",
+    "d": "打印程序或者库文件所依赖的共享库列表",
+    "p": "ldd"
+  },
+  {
+    "n": "less",
+    "d": "分屏上下翻页浏览文件内容",
+    "p": "less"
+  },
+  {
+    "n": "let",
+    "d": "简单的计算器，执行算术表达式。",
+    "p": "let"
+  },
+  {
+    "n": "lftp",
+    "d": "优秀的文件客户端程序",
+    "p": "lftp"
+  },
+  {
+    "n": "lftpget",
+    "d": "调用lftp指令下载指定的文件",
+    "p": "lftpget"
+  },
+  {
+    "n": "lha",
+    "d": "压缩或解压缩lzh格式文件",
+    "p": "lha"
+  },
+  {
+    "n": "lilo",
+    "d": "安装核心载入开机管理程序",
+    "p": "lilo"
+  },
+  {
+    "n": "ln",
+    "d": "用来为文件创建链接",
+    "p": "ln"
+  },
+  {
+    "n": "lnstat",
+    "d": "显示Linux系统的网路状态",
+    "p": "lnstat"
+  },
+  {
+    "n": "local",
+    "d": "在函数内定义局部变量。",
+    "p": "local"
+  },
+  {
+    "n": "locate",
+    "d": "比 find 好用的文件查找工具",
+    "p": "locate"
+  },
+  {
+    "n": "logger",
+    "d": "在系统日志中记录相应条目",
+    "p": "logger"
+  },
+  {
+    "n": "login",
+    "d": "登录系统或切换用户身份",
+    "p": "login"
+  },
+  {
+    "n": "logname",
+    "d": "打印当前终端登录用户的名称。",
+    "p": "logname"
+  },
+  {
+    "n": "logout",
+    "d": "退出当前登录的Shell",
+    "p": "logout"
+  },
+  {
+    "n": "logrotate",
+    "d": "系统日志进行轮转、压缩和删除",
+    "p": "logrotate"
+  },
+  {
+    "n": "logsave",
+    "d": "将命令的输出信息保存到指定的日志文件",
+    "p": "logsave"
+  },
+  {
+    "n": "logwatch",
+    "d": "可定制和可插入式的日志监视系统",
+    "p": "logwatch"
+  },
+  {
+    "n": "look",
+    "d": "显示文件中以指定字符串开头的任意行",
+    "p": "look"
+  },
+  {
+    "n": "losetup",
+    "d": "设定与控制循环（loop）设备",
+    "p": "losetup"
+  },
+  {
+    "n": "lp",
+    "d": "打印文件或修改排队的打印任务",
+    "p": "lp"
+  },
+  {
+    "n": "lpadmin",
+    "d": "配置CUPS套件中的打印机和类",
+    "p": "lpadmin"
+  },
+  {
+    "n": "lpc",
+    "d": "命令行方式打印机控制程序",
+    "p": "lpc"
+  },
+  {
+    "n": "lpq",
+    "d": "显示打印队列中的打印任务的状态信息",
+    "p": "lpq"
+  },
+  {
+    "n": "lpr",
+    "d": "将文件发送给指定打印机进行打印",
+    "p": "lpr"
+  },
+  {
+    "n": "lprm",
+    "d": "删除打印队列中的打印任务",
+    "p": "lprm"
+  },
+  {
+    "n": "lpstat",
+    "d": "显示CUPS中打印机的状态信息",
+    "p": "lpstat"
+  },
+  {
+    "n": "ls",
+    "d": "显示目录内容列表",
+    "p": "ls"
+  },
+  {
+    "n": "lsattr",
+    "d": "查看文件的第二扩展文件系统属性",
+    "p": "lsattr"
+  },
+  {
+    "n": "lsblk",
+    "d": "列出块设备信息",
+    "p": "lsblk"
+  },
+  {
+    "n": "lsb_release",
+    "d": "显示发行版本信息",
+    "p": "lsb_release"
+  },
+  {
+    "n": "lscpu",
+    "d": "显示有关CPU架构的信息",
+    "p": "lscpu"
+  },
+  {
+    "n": "lsmod",
+    "d": "显示已载入系统的模块",
+    "p": "lsmod"
+  },
+  {
+    "n": "lsof",
+    "d": "显示Linux系统当前已打开的所有文件列表 `lsof -p pid`",
+    "p": "lsof"
+  },
+  {
+    "n": "lspci",
+    "d": "显示当前主机的所有PCI总线信息",
+    "p": "lspci"
+  },
+  {
+    "n": "lsusb",
+    "d": "显示本机的USB设备列表信息",
+    "p": "lsusb"
+  },
+  {
+    "n": "ltrace",
+    "d": "用来跟踪进程调用库函数的情况",
+    "p": "ltrace"
+  },
+  {
+    "n": "lvcreate",
+    "d": "用于创建LVM的逻辑卷",
+    "p": "lvcreate"
+  },
+  {
+    "n": "lvdisplay",
+    "d": "显示逻辑卷属性",
+    "p": "lvdisplay"
+  },
+  {
+    "n": "lvextend",
+    "d": "扩展逻辑卷空间",
+    "p": "lvextend"
+  },
+  {
+    "n": "lvreduce",
+    "d": "收缩逻辑卷空间",
+    "p": "lvreduce"
+  },
+  {
+    "n": "lvremove",
+    "d": "删除指定LVM逻辑卷",
+    "p": "lvremove"
+  },
+  {
+    "n": "lvresize",
+    "d": "调整逻辑卷空间大小",
+    "p": "lvresize"
+  },
+  {
+    "n": "lvscan",
+    "d": "扫描逻辑卷",
+    "p": "lvscan"
+  },
+  {
+    "n": "lynx",
+    "d": "纯文本模式的网页浏览器",
+    "p": "lynx"
+  },
+  {
+    "n": "mail",
+    "d": "命令行下发送和接收电子邮件",
+    "p": "mail"
+  },
+  {
+    "n": "mailq",
+    "d": "显示待发送的邮件队列",
+    "p": "mailq"
+  },
+  {
+    "n": "mailstat",
+    "d": "显示到达的邮件状态",
+    "p": "mailstat"
+  },
+  {
+    "n": "make",
+    "d": "GNU的工程化编译工具",
+    "p": "make"
+  },
+  {
+    "n": "man",
+    "d": "查看Linux中的指令帮助",
+    "p": "man"
+  },
+  {
+    "n": "mapfile",
+    "d": "从标准输入读取行并赋值到数组。",
+    "p": "mapfile"
+  },
+  {
+    "n": "md5sum",
+    "d": "计算和校验文件报文摘要的工具程序",
+    "p": "md5sum"
+  },
+  {
+    "n": "mesg",
+    "d": "设置当前终端的写权限",
+    "p": "mesg"
+  },
+  {
+    "n": "mii-tool",
+    "d": "配置网络设备协商方式的工具",
+    "p": "mii-tool"
+  },
+  {
+    "n": "mkbootdisk",
+    "d": "可建立目前系统的启动盘",
+    "p": "mkbootdisk"
+  },
+  {
+    "n": "mkcert",
+    "d": "用来生成自签证书的工具",
+    "p": "mkcert"
+  },
+  {
+    "n": "mkdir",
+    "d": "用来创建目录",
+    "p": "mkdir"
+  },
+  {
+    "n": "mke2fs",
+    "d": "创建磁盘分区上的“etc2/etc3”文件系统",
+    "p": "mke2fs"
+  },
+  {
+    "n": "mkfs",
+    "d": "用于在设备上创建Linux文件系统",
+    "p": "mkfs"
+  },
+  {
+    "n": "mkinitrd",
+    "d": "建立要载入ramdisk的映像文件",
+    "p": "mkinitrd"
+  },
+  {
+    "n": "mkisofs",
+    "d": "建立ISO 9660映像文件",
+    "p": "mkisofs"
+  },
+  {
+    "n": "mknod",
+    "d": "创建字符设备文件和块设备文件",
+    "p": "mknod"
+  },
+  {
+    "n": "mkswap",
+    "d": "建立和设置SWAP交换分区",
+    "p": "mkswap"
+  },
+  {
+    "n": "mktemp",
+    "d": "创建临时文件供shell脚本使用",
+    "p": "mktemp"
+  },
+  {
+    "n": "modetest",
+    "d": "DRM/KMS驱动程序libdrm中的模式测试工具",
+    "p": "modetest"
+  },
+  {
+    "n": "modprobe",
+    "d": "自动处理可载入模块",
+    "p": "modprobe"
+  },
+  {
+    "n": "more",
+    "d": "显示文件内容，每次显示一屏",
+    "p": "more"
+  },
+  {
+    "n": "mount",
+    "d": "用于挂载Linux系统外的文件",
+    "p": "mount"
+  },
+  {
+    "n": "mpstat",
+    "d": "显示各个可用CPU的状态",
+    "p": "mpstat"
+  },
+  {
+    "n": "mtools",
+    "d": "显示mtools支持的指令",
+    "p": "mtools"
+  },
+  {
+    "n": "mtr",
+    "d": "`mtr` 结合了 `traceroute` 和 `ping` 程序的功能，是一款简单的网络诊断工具",
+    "p": "mtr"
+  },
+  {
+    "n": "mv",
+    "d": "用来对文件或目录重新命名",
+    "p": "mv"
+  },
+  {
+    "n": "mysql",
+    "d": "MySQL服务器客户端工具",
+    "p": "mysql"
+  },
+  {
+    "n": "mysqladmin",
+    "d": "MySQL服务器管理客户端",
+    "p": "mysqladmin"
+  },
+  {
+    "n": "mysqldump",
+    "d": "MySQL数据库中备份工具",
+    "p": "mysqldump"
+  },
+  {
+    "n": "mysqlimport",
+    "d": "为MySQL服务器用命令行方式导入数据",
+    "p": "mysqlimport"
+  },
+  {
+    "n": "mysqlshow",
+    "d": "显示MySQL中数据库相关信息",
+    "p": "mysqlshow"
+  },
+  {
+    "n": "named-checkzone",
+    "d": "使用 named-checkzone 可验证并转换区域文件，需指定区域名和文件名。",
+    "p": "named-checkzone"
+  },
+  {
+    "n": "nano",
+    "d": "字符终端文本编辑器",
+    "p": "nano"
+  },
+  {
+    "n": "nc",
+    "d": "nc是网络工具中的瑞士军刀",
+    "p": "nc"
+  },
+  {
+    "n": "ncftp",
+    "d": "是增强的的FTP工具",
+    "p": "ncftp"
+  },
+  {
+    "n": "neofetch",
+    "d": "显示带有发行徽标的系统信息的工具",
+    "p": "neofetch"
+  },
+  {
+    "n": "nethogs",
+    "d": "终端下的网络流量监控工具",
+    "p": "nethogs"
+  },
+  {
+    "n": "netstat",
+    "d": "查看Linux中网络系统状态信息",
+    "p": "netstat"
+  },
+  {
+    "n": "newusers",
+    "d": "用于批处理的方式一次创建多个命令",
+    "p": "newusers"
+  },
+  {
+    "n": "nfsstat",
+    "d": "列出NFS客户端和服务器的工作状态",
+    "p": "nfsstat"
+  },
+  {
+    "n": "ngrep",
+    "d": "方便的数据包匹配和显示工具",
+    "p": "ngrep"
+  },
+  {
+    "n": "nice",
+    "d": "调整程序执行的优先权等级",
+    "p": "nice"
+  },
+  {
+    "n": "nisdomainname",
+    "d": "显示主机NIS的域名",
+    "p": "nisdomainname"
+  },
+  {
+    "n": "nl",
+    "d": "为每一个文件添加行号。",
+    "p": "nl"
+  },
+  {
+    "n": "nm",
+    "d": "显示二进制目标文件的符号表",
+    "p": "nm"
+  },
+  {
+    "n": "nmap",
+    "d": "网络探测和安全审核",
+    "p": "nmap"
+  },
+  {
+    "n": "nmcli",
+    "d": "地址配置工具",
+    "p": "nmcli"
+  },
+  {
+    "n": "nohup",
+    "d": "将程序以忽略挂起信号的方式运行起来",
+    "p": "nohup"
+  },
+  {
+    "n": "nologin",
+    "d": "拒绝用户登录系统",
+    "p": "nologin"
+  },
+  {
+    "n": "nproc",
+    "d": "打印可用的处理器单元数量。",
+    "p": "nproc"
+  },
+  {
+    "n": "nslookup",
+    "d": "查询域名DNS信息的工具",
+    "p": "nslookup"
+  },
+  {
+    "n": "nstat",
+    "d": "nstat 是一个简单的监视内核的 SNMP 计数器和网络接口状态的实用工具。",
+    "p": "nstat"
+  },
+  {
+    "n": "ntpdate",
+    "d": "使用网络计时协议（NTP）设置日期和时间",
+    "p": "ntpdate"
+  },
+  {
+    "n": "ntsysv",
+    "d": "集中管理系统的各种服务",
+    "p": "ntsysv"
+  },
+  {
+    "n": "objdump",
+    "d": "显示二进制文件信息",
+    "p": "objdump"
+  },
+  {
+    "n": "od",
+    "d": "输出文件的八进制、十六进制等格式编码的字节",
+    "p": "od"
+  },
+  {
+    "n": "openssl",
+    "d": "强大的安全套接字层密码库",
+    "p": "openssl"
+  },
+  {
+    "n": "pacman",
+    "d": "Arch Linux 系统及其衍生系统中默认使用的包管理器",
+    "p": "pacman"
+  },
+  {
+    "n": "parted",
+    "d": "磁盘分区和分区大小调整工具",
+    "p": "parted"
+  },
+  {
+    "n": "partprobe",
+    "d": "不重启的情况下重读分区",
+    "p": "partprobe"
+  },
+  {
+    "n": "passwd",
+    "d": "用于让用户可以更改自己的密码",
+    "p": "passwd"
+  },
+  {
+    "n": "paste",
+    "d": "将多个文件按列队列合并",
+    "p": "paste"
+  },
+  {
+    "n": "patch",
+    "d": "为开放源代码软件安装补丁程序",
+    "p": "patch"
+  },
+  {
+    "n": "pathchk",
+    "d": "检查文件中不可移植的部分",
+    "p": "pathchk"
+  },
+  {
+    "n": "perl",
+    "d": "perl语言解释器",
+    "p": "perl"
+  },
+  {
+    "n": "pfctl",
+    "d": "PF防火墙的配置命令",
+    "p": "pfctl"
+  },
+  {
+    "n": "pgrep",
+    "d": "根据用户给出的信息在当前运行进程中查找并列出符合条件的进程ID（PID）",
+    "p": "pgrep"
+  },
+  {
+    "n": "php",
+    "d": "PHP语言的命令行接口",
+    "p": "php"
+  },
+  {
+    "n": "pico",
+    "d": "功能强大全屏幕的文本编辑器",
+    "p": "pico"
+  },
+  {
+    "n": "pidof",
+    "d": "查找指定名称的进程的进程号ID号",
+    "p": "pidof"
+  },
+  {
+    "n": "pidstat",
+    "d": "监控进程的系统资源占用情况",
+    "p": "pidstat"
+  },
+  {
+    "n": "pigz",
+    "d": "可以用来解压缩文件，gzip的并行实现升级版",
+    "p": "pigz"
+  },
+  {
+    "n": "ping",
+    "d": "测试主机之间网络的连通性(ipv4)",
+    "p": "ping"
+  },
+  {
+    "n": "ping6",
+    "d": "测试主机之间网络的连通性(ipv6)",
+    "p": "ping6"
+  },
+  {
+    "n": "pip",
+    "d": "Python 编程语言中的包管理器，用于安装和管理第三方 Python 模块",
+    "p": "pip"
+  },
+  {
+    "n": "pkexec",
+    "d": "以其他用户身份执行命令",
+    "p": "pkexec"
+  },
+  {
+    "n": "pkill",
+    "d": "可以按照进程名杀死进程",
+    "p": "pkill"
+  },
+  {
+    "n": "pmap",
+    "d": "报告进程的内存映射关系",
+    "p": "pmap"
+  },
+  {
+    "n": "popd",
+    "d": "从目录堆栈中删除目录。",
+    "p": "popd"
+  },
+  {
+    "n": "poweroff",
+    "d": "关闭Linux系统，关闭记录会被写入到/var/log/wtmp日志文件中",
+    "p": "poweroff"
+  },
+  {
+    "n": "ppp-off",
+    "d": "关闭ppp连线",
+    "p": "ppp-off"
+  },
+  {
+    "n": "pr",
+    "d": "将文本文件转换成适合打印的格式",
+    "p": "pr"
+  },
+  {
+    "n": "printf",
+    "d": "格式化并输出结果。",
+    "p": "printf"
+  },
+  {
+    "n": "protoize",
+    "d": "GNU-C代码转换为ANSI-C代码",
+    "p": "protoize"
+  },
+  {
+    "n": "prtstat",
+    "d": "显示进程信息",
+    "p": "prtstat"
+  },
+  {
+    "n": "ps",
+    "d": "报告当前系统的进程状态",
+    "p": "ps"
+  },
+  {
+    "n": "pssh",
+    "d": "批量管理执行",
+    "p": "pssh"
+  },
+  {
+    "n": "pstack",
+    "d": "显示每个进程的栈跟踪",
+    "p": "pstack"
+  },
+  {
+    "n": "pstree",
+    "d": "以树状图的方式展现进程之间的派生关系",
+    "p": "pstree"
+  },
+  {
+    "n": "pushd",
+    "d": "将目录添加到目录堆栈顶部。",
+    "p": "pushd"
+  },
+  {
+    "n": "pv",
+    "d": "显示当前在命令行执行的命令的进度信息，管道查看器",
+    "p": "pv"
+  },
+  {
+    "n": "pvchange",
+    "d": "修改物理卷属性",
+    "p": "pvchange"
+  },
+  {
+    "n": "pvck",
+    "d": "检测物理卷的LVM元数据的一致性",
+    "p": "pvck"
+  },
+  {
+    "n": "pvcreate",
+    "d": "将物理硬盘分区初始化为物理卷",
+    "p": "pvcreate"
+  },
+  {
+    "n": "pvdisplay",
+    "d": "显示物理卷的属性",
+    "p": "pvdisplay"
+  },
+  {
+    "n": "pvremove",
+    "d": "删除一个存在的物理卷",
+    "p": "pvremove"
+  },
+  {
+    "n": "pvs",
+    "d": "输出物理卷信息报表",
+    "p": "pvs"
+  },
+  {
+    "n": "pvscan",
+    "d": "扫描系统中所有硬盘的物理卷列表",
+    "p": "pvscan"
+  },
+  {
+    "n": "pwck",
+    "d": "用来验证系统认证文件内容和格式的完整性",
+    "p": "pwck"
+  },
+  {
+    "n": "pwconv",
+    "d": "用来开启用户的投影密码",
+    "p": "pwconv"
+  },
+  {
+    "n": "pwd",
+    "d": "显示当前工作目录的绝对路径。",
+    "p": "pwd"
+  },
+  {
+    "n": "pwdx",
+    "d": "用于显示指定进程的当前工作目录",
+    "p": "pwdx"
+  },
+  {
+    "n": "pwunconv",
+    "d": "用来关闭用户的投影密码",
+    "p": "pwunconv"
+  },
+  {
+    "n": "quota",
+    "d": "显示磁盘已使用的空间与限制",
+    "p": "quota"
+  },
+  {
+    "n": "quotacheck",
+    "d": "检查磁盘的使用空间与限制",
+    "p": "quotacheck"
+  },
+  {
+    "n": "quotaoff",
+    "d": "关闭Linux内核中指定文件系统的磁盘配额功能",
+    "p": "quotaoff"
+  },
+  {
+    "n": "quotaon",
+    "d": "激活Linux内核中指定文件系统的磁盘配额功能",
+    "p": "quotaon"
+  },
+  {
+    "n": "rcconf",
+    "d": "Debian Linux下的运行等级服务配置工具",
+    "p": "rcconf"
+  },
+  {
+    "n": "rcp",
+    "d": "使在两台Linux主机之间的文件复制操作更简单",
+    "p": "rcp"
+  },
+  {
+    "n": "read",
+    "d": "从键盘读取变量值",
+    "p": "read"
+  },
+  {
+    "n": "readelf",
+    "d": "用于显示elf格式文件的信息",
+    "p": "readelf"
+  },
+  {
+    "n": "readonly",
+    "d": "标记shell变量或函数为只读",
+    "p": "readonly"
+  },
+  {
+    "n": "reboot",
+    "d": "重新启动正在运行的Linux操作系统",
+    "p": "reboot"
+  },
+  {
+    "n": "reject",
+    "d": "指示打印系统拒绝发往指定目标打印机的打印任务",
+    "p": "reject"
+  },
+  {
+    "n": "rename",
+    "d": "用字符串替换的方式批量改变文件名",
+    "p": "rename"
+  },
+  {
+    "n": "renice",
+    "d": "修改正在运行的进程的调度优先级",
+    "p": "renice"
+  },
+  {
+    "n": "reposync",
+    "d": "同步yum存储库到本地目录",
+    "p": "reposync"
+  },
+  {
+    "n": "repquota",
+    "d": "报表的格式输出磁盘空间限制的状态",
+    "p": "repquota"
+  },
+  {
+    "n": "resize",
+    "d": "命令设置终端机视窗的大小",
+    "p": "resize"
+  },
+  {
+    "n": "restore",
+    "d": "所进行的操作和dump指令相反",
+    "p": "restore"
+  },
+  {
+    "n": "restorecon",
+    "d": "恢复文件的安全上下文",
+    "p": "restorecon"
+  },
+  {
+    "n": "return",
+    "d": "从函数中退出并返回数值。",
+    "p": "return"
+  },
+  {
+    "n": "rev",
+    "d": "将文件内容以字符为单位反序输出",
+    "p": "rev"
+  },
+  {
+    "n": "rexec",
+    "d": "远程执行Linux系统下命令",
+    "p": "rexec"
+  },
+  {
+    "n": "rlogin",
+    "d": "从当前终端登录到远程Linux主机",
+    "p": "rlogin"
+  },
+  {
+    "n": "rm",
+    "d": "用于删除给定的文件和目录",
+    "p": "rm"
+  },
+  {
+    "n": "rmdir",
+    "d": "用来删除空目录",
+    "p": "rmdir"
+  },
+  {
+    "n": "rmmod",
+    "d": "从运行的内核中移除指定的内核模块",
+    "p": "rmmod"
+  },
+  {
+    "n": "route",
+    "d": "显示并设置Linux中静态路由表",
+    "p": "route"
+  },
+  {
+    "n": "rpm",
+    "d": "RPM软件包的管理工具",
+    "p": "rpm"
+  },
+  {
+    "n": "rpm2cpio",
+    "d": "将RPM软件包转换为cpio格式的文件",
+    "p": "rpm2cpio"
+  },
+  {
+    "n": "rpmbuild",
+    "d": "创建RPM的二进制软件包和源码软件包",
+    "p": "rpmbuild"
+  },
+  {
+    "n": "rpmdb",
+    "d": "初始化和重建RPM数据库",
+    "p": "rpmdb"
+  },
+  {
+    "n": "rpmquery",
+    "d": "从RPM数据库中查询软件包信息",
+    "p": "rpmquery"
+  },
+  {
+    "n": "rpmsign",
+    "d": "使用RPM软件包的签名管理工具",
+    "p": "rpmsign"
+  },
+  {
+    "n": "rpmverify",
+    "d": "验证已安装的RPM软件包的正确性",
+    "p": "rpmverify"
+  },
+  {
+    "n": "rsh",
+    "d": "连接远程主机并执行命令",
+    "p": "rsh"
+  },
+  {
+    "n": "rsync",
+    "d": "远程数据同步工具",
+    "p": "rsync"
+  },
+  {
+    "n": "runlevel",
+    "d": "打印当前Linux系统的运行等级",
+    "p": "runlevel"
+  },
+  {
+    "n": "sar",
+    "d": "系统运行状态统计工具",
+    "p": "sar"
+  },
+  {
+    "n": "scp",
+    "d": "加密的方式在本地主机和远程主机之间复制文件",
+    "p": "scp"
+  },
+  {
+    "n": "screen",
+    "d": "用于命令行终端切换",
+    "p": "screen"
+  },
+  {
+    "n": "script",
+    "d": "记录终端会话的所有操作",
+    "p": "script"
+  },
+  {
+    "n": "scriptreplay",
+    "d": "重新播放终端会话的所有操作",
+    "p": "scriptreplay"
+  },
+  {
+    "n": "sed",
+    "d": "功能强大的流式文本编辑器",
+    "p": "sed"
+  },
+  {
+    "n": "seinfo",
+    "d": "查询SELinux的策略提供多少相关规则",
+    "p": "seinfo"
+  },
+  {
+    "n": "semanage",
+    "d": "默认目录的安全上下文查询与修改",
+    "p": "semanage"
+  },
+  {
+    "n": "sendmail",
+    "d": "著名电子邮件服务器",
+    "p": "sendmail"
+  },
+  {
+    "n": "seq",
+    "d": "以指定增量从首数开始打印数字到尾数",
+    "p": "seq"
+  },
+  {
+    "n": "service",
+    "d": "控制系统服务的实用工具",
+    "p": "service"
+  },
+  {
+    "n": "sesearch",
+    "d": "查询SELinux策略的规则详情",
+    "p": "sesearch"
+  },
+  {
+    "n": "set",
+    "d": "显示或设置shell特性及shell变量",
+    "p": "set"
+  },
+  {
+    "n": "setfacl",
+    "d": "设置文件访问控制列表",
+    "p": "setfacl"
+  },
+  {
+    "n": "setpci",
+    "d": "查询和配置PCI设备的使用工具",
+    "p": "setpci"
+  },
+  {
+    "n": "setsebool",
+    "d": "修改SElinux策略内各项规则的布尔值",
+    "p": "setsebool"
+  },
+  {
+    "n": "setsid",
+    "d": "在新的会话中运行程序",
+    "p": "setsid"
+  },
+  {
+    "n": "sftp-server",
+    "d": "sftp协议的服务器端程序",
+    "p": "sftp-server"
+  },
+  {
+    "n": "sftp",
+    "d": "交互式的文件传输程序",
+    "p": "sftp"
+  },
+  {
+    "n": "sh",
+    "d": "shell命令解释器",
+    "p": "sh"
+  },
+  {
+    "n": "sha256sum",
+    "d": "用于计算文件的 SHA-256 哈希值",
+    "p": "sha256sum"
+  },
+  {
+    "n": "shift",
+    "d": "移动位置参数。",
+    "p": "shift"
+  },
+  {
+    "n": "shopt",
+    "d": "显示和设置shell操作选项",
+    "p": "shopt"
+  },
+  {
+    "n": "showmount",
+    "d": "显示NFS服务器加载的信息",
+    "p": "showmount"
+  },
+  {
+    "n": "shuf",
+    "d": "产生随机的排列。",
+    "p": "shuf"
+  },
+  {
+    "n": "shutdown",
+    "d": "用来执行系统关机的命令",
+    "p": "shutdown"
+  },
+  {
+    "n": "skill",
+    "d": "向选定的进程发送信号冻结进程",
+    "p": "skill"
+  },
+  {
+    "n": "slabtop",
+    "d": "实时显示内核slab内存缓存信息",
+    "p": "slabtop"
+  },
+  {
+    "n": "sleep",
+    "d": "将目前动作延迟一段时间",
+    "p": "sleep"
+  },
+  {
+    "n": "slocate",
+    "d": "命令查找文件或目录",
+    "p": "slocate"
+  },
+  {
+    "n": "smartmontools",
+    "d": "Smartmontools 是一种硬盘检测工具，通过控制和管理硬盘的SMART（Self Monitoring Analysis and Reporting Technology，自动检测分析及报告技术）技术来实现的",
+    "p": "smartmontools"
+  },
+  {
+    "n": "smbclient",
+    "d": "交互方式访问samba服务器",
+    "p": "smbclient"
+  },
+  {
+    "n": "smbpasswd",
+    "d": "samba用户和密码管理工具",
+    "p": "smbpasswd"
+  },
+  {
+    "n": "sort",
+    "d": "对文本文件中所有行进行排序。",
+    "p": "sort"
+  },
+  {
+    "n": "source",
+    "d": "在当前Shell环境中从指定文件读取和执行命令。",
+    "p": "source"
+  },
+  {
+    "n": "speedtest-cli",
+    "d": "命令行下测试服务器外网速度",
+    "p": "speedtest-cli"
+  },
+  {
+    "n": "spell",
+    "d": "对文件进行拼写检查",
+    "p": "spell"
+  },
+  {
+    "n": "split",
+    "d": "分割任意大小的文件",
+    "p": "split"
+  },
+  {
+    "n": "squid",
+    "d": "squid服务器守护进程",
+    "p": "squid"
+  },
+  {
+    "n": "squidclient",
+    "d": "squid服务器的客户端管理工具",
+    "p": "squidclient"
+  },
+  {
+    "n": "ss",
+    "d": "比 netstat 好用的socket统计信息，iproute2 包附带的另一个工具，允许你查询 socket 的有关统计信息",
+    "p": "ss"
+  },
+  {
+    "n": "ssh-add",
+    "d": "把专用密钥添加到ssh-agent的高速缓存中",
+    "p": "ssh-add"
+  },
+  {
+    "n": "ssh-agent",
+    "d": "ssh密钥管理器",
+    "p": "ssh-agent"
+  },
+  {
+    "n": "ssh-copy-id",
+    "d": "把本地的ssh公钥文件安装到远程主机对应的账户下",
+    "p": "ssh-copy-id"
+  },
+  {
+    "n": "ssh-keygen",
+    "d": "为ssh生成、管理和转换认证密钥",
+    "p": "ssh-keygen"
+  },
+  {
+    "n": "ssh-keyscan",
+    "d": "收集主机公钥的使用工具",
+    "p": "ssh-keyscan"
+  },
+  {
+    "n": "ssh",
+    "d": "openssh套件中的客户端连接工具",
+    "p": "ssh"
+  },
+  {
+    "n": "sshd",
+    "d": "openssh软件套件中的服务器守护进程",
+    "p": "sshd"
+  },
+  {
+    "n": "sshpass",
+    "d": "免交互 SSH 登录工具。",
+    "p": "sshpass"
+  },
+  {
+    "n": "startx",
+    "d": "用来启动X Window",
+    "p": "startx"
+  },
+  {
+    "n": "stat",
+    "d": "用于显示文件的状态信息",
+    "p": "stat"
+  },
+  {
+    "n": "strace",
+    "d": "跟踪系统调用和信号",
+    "p": "strace"
+  },
+  {
+    "n": "strings",
+    "d": "在对象文件或二进制文件中查找可打印的字符串",
+    "p": "strings"
+  },
+  {
+    "n": "stty",
+    "d": "修改终端命令行的相关设置",
+    "p": "stty"
+  },
+  {
+    "n": "su",
+    "d": "用于切换当前用户身份到其他用户身份",
+    "p": "su"
+  },
+  {
+    "n": "sudo",
+    "d": "以其他身份来执行命令",
+    "p": "sudo"
+  },
+  {
+    "n": "sum",
+    "d": "计算文件的校验码和显示块数",
+    "p": "sum"
+  },
+  {
+    "n": "supervisord",
+    "d": "配置后台服务/常驻进程的进程管家工具",
+    "p": "supervisord"
+  },
+  {
+    "n": "suspend",
+    "d": "挂起shell的执行。",
+    "p": "suspend"
+  },
+  {
+    "n": "swapoff",
+    "d": "关闭指定的交换空间",
+    "p": "swapoff"
+  },
+  {
+    "n": "swapon",
+    "d": "激活Linux系统中交换空间",
+    "p": "swapon"
+  },
+  {
+    "n": "sync",
+    "d": "用于强制被改变的内容立刻写入磁盘",
+    "p": "sync"
+  },
+  {
+    "n": "sysctl",
+    "d": "时动态地修改内核的运行参数",
+    "p": "sysctl"
+  },
+  {
+    "n": "syslog",
+    "d": "系统默认的日志守护进程",
+    "p": "syslog"
+  },
+  {
+    "n": "systemctl",
+    "d": "系统服务管理器指令",
+    "p": "systemctl"
+  },
+  {
+    "n": "systool",
+    "d": "显示基于总线、类和拓扑显示系统中设备的信息",
+    "p": "systool"
+  },
+  {
+    "n": "tac",
+    "d": "连接多个文件并以行为单位反向打印到标准输出。",
+    "p": "tac"
+  },
+  {
+    "n": "tail",
+    "d": "在屏幕上显示指定文件的末尾若干行",
+    "p": "tail"
+  },
+  {
+    "n": "tailf",
+    "d": "在屏幕上显示指定文件的末尾若干行内容，通常用于日志文件的跟踪输出",
+    "p": "tailf"
+  },
+  {
+    "n": "talk",
+    "d": "让用户和其他用户聊天",
+    "p": "talk"
+  },
+  {
+    "n": "tar",
+    "d": "将许多文件一起保存至一个单独的磁带或磁盘归档，并能从归档中单独还原所需文件。",
+    "p": "tar"
+  },
+  {
+    "n": "tcpdump",
+    "d": "一款sniffer工具，是Linux上的抓包工具，嗅探器",
+    "p": "tcpdump"
+  },
+  {
+    "n": "tcpreplay",
+    "d": "将保存在 PCAP 文件包重新发送，用于性能或者功能测试",
+    "p": "tcpreplay"
+  },
+  {
+    "n": "tee",
+    "d": "从标准输入读取数据并重定向到标准输出和文件。",
+    "p": "tee"
+  },
+  {
+    "n": "telinit",
+    "d": "切换当前正在运行系统的运行等级",
+    "p": "telinit"
+  },
+  {
+    "n": "telnet",
+    "d": "登录远程主机和管理(测试ip端口是否连通)",
+    "p": "telnet"
+  },
+  {
+    "n": "tempfile",
+    "d": "shell中给临时文件命名",
+    "p": "tempfile"
+  },
+  {
+    "n": "test",
+    "d": "执行条件表达式。",
+    "p": "test"
+  },
+  {
+    "n": "tftp",
+    "d": "在本机和tftp服务器之间使用TFTP协议传输文件",
+    "p": "tftp"
+  },
+  {
+    "n": "time",
+    "d": "统计给定命令所花费的总时间",
+    "p": "time"
+  },
+  {
+    "n": "timedatectl",
+    "d": "用于在 Linux 中设置或查询系统时间、日期和时区等配置。",
+    "p": "timedatectl"
+  },
+  {
+    "n": "times",
+    "d": "显示进程累计时间。",
+    "p": "times"
+  },
+  {
+    "n": "tload",
+    "d": "显示系统负载状况",
+    "p": "tload"
+  },
+  {
+    "n": "tmux",
+    "d": "Tmux是一个优秀的终端复用软件，类似GNU Screen，但来自于OpenBSD，采用BSD授权",
+    "p": "tmux"
+  },
+  {
+    "n": "top",
+    "d": "显示或管理执行中的程序",
+    "p": "top"
+  },
+  {
+    "n": "touch",
+    "d": "创建新的空文件",
+    "p": "touch"
+  },
+  {
+    "n": "tput",
+    "d": "通过terminfo数据库对终端会话进行初始化和操作",
+    "p": "tput"
+  },
+  {
+    "n": "tr",
+    "d": "将字符进行替换压缩和删除",
+    "p": "tr"
+  },
+  {
+    "n": "tracepath",
+    "d": "追踪目的主机经过的路由信息",
+    "p": "tracepath"
+  },
+  {
+    "n": "traceroute",
+    "d": "显示数据包到主机间的路径",
+    "p": "traceroute"
+  },
+  {
+    "n": "trap",
+    "d": "捕捉信号和其他事件并执行命令。",
+    "p": "trap"
+  },
+  {
+    "n": "tree",
+    "d": "树状图列出目录的内容",
+    "p": "tree"
+  },
+  {
+    "n": "true",
+    "d": "返回状态为成功。",
+    "p": "true"
+  },
+  {
+    "n": "tty",
+    "d": "显示连接到当前标准输入的终端设备文件名",
+    "p": "tty"
+  },
+  {
+    "n": "type",
+    "d": "显示指定命令的类型。",
+    "p": "type"
+  },
+  {
+    "n": "ufw",
+    "d": "ubuntu防火墙管理工具",
+    "p": "ufw"
+  },
+  {
+    "n": "ulimit",
+    "d": "控制shell程序的资源",
+    "p": "ulimit"
+  },
+  {
+    "n": "umask",
+    "d": "显示或设置创建文件的权限掩码。",
+    "p": "umask"
+  },
+  {
+    "n": "umount",
+    "d": "用于卸载已经加载的文件系统",
+    "p": "umount"
+  },
+  {
+    "n": "unalias",
+    "d": "删除由alias设置的别名",
+    "p": "unalias"
+  },
+  {
+    "n": "uname",
+    "d": "打印系统信息。",
+    "p": "uname"
+  },
+  {
+    "n": "unarj",
+    "d": "解压缩由arj命令创建的压缩包",
+    "p": "unarj"
+  },
+  {
+    "n": "uncompress",
+    "d": "用来解压.Z文件",
+    "p": "uncompress"
+  },
+  {
+    "n": "unexpand",
+    "d": "将文件的空白字符转换为制表符",
+    "p": "unexpand"
+  },
+  {
+    "n": "uniq",
+    "d": "显示或忽略重复的行。",
+    "p": "uniq"
+  },
+  {
+    "n": "unlink",
+    "d": "系统调用函数unlink去删除指定的文件",
+    "p": "unlink"
+  },
+  {
+    "n": "unprotoize",
+    "d": "删除C语言源代码文件中的函数原型",
+    "p": "unprotoize"
+  },
+  {
+    "n": "unrar",
+    "d": "解压rar文件命令，从 rar 压缩包中提取文件",
+    "p": "unrar"
+  },
+  {
+    "n": "unset",
+    "d": "删除指定的shell变量或函数。",
+    "p": "unset"
+  },
+  {
+    "n": "unzip",
+    "d": "用于解压缩由zip命令压缩的压缩包",
+    "p": "unzip"
+  },
+  {
+    "n": "updatedb",
+    "d": "创建或更新slocate命令所必需的数据库文件",
+    "p": "updatedb"
+  },
+  {
+    "n": "uptime",
+    "d": "查看Linux系统负载信息",
+    "p": "uptime"
+  },
+  {
+    "n": "useradd",
+    "d": "创建的新的系统用户",
+    "p": "useradd"
+  },
+  {
+    "n": "userdel",
+    "d": "用于删除给定的用户以及与用户相关的文件",
+    "p": "userdel"
+  },
+  {
+    "n": "usermod",
+    "d": "用于修改用户的基本信息",
+    "p": "usermod"
+  },
+  {
+    "n": "usernetctl",
+    "d": "被允许时操作指定的网络接口",
+    "p": "usernetctl"
+  },
+  {
+    "n": "users",
+    "d": "打印当前主机所有登陆用户的名称。",
+    "p": "users"
+  },
+  {
+    "n": "uucico",
+    "d": "UUCP文件传输服务程序",
+    "p": "uucico"
+  },
+  {
+    "n": "uupick",
+    "d": "命令处理传送进来的文件",
+    "p": "uupick"
+  },
+  {
+    "n": "uuto",
+    "d": "将文件传送到远端的UUCP主机",
+    "p": "uuto"
+  },
+  {
+    "n": "vdfuse",
+    "d": "VirtualBox软件挂载VDI分区文件工具",
+    "p": "vdfuse"
+  },
+  {
+    "n": "vgchange",
+    "d": "修改卷组属性",
+    "p": "vgchange"
+  },
+  {
+    "n": "vgconvert",
+    "d": "转换卷组元数据格式",
+    "p": "vgconvert"
+  },
+  {
+    "n": "vgcreate",
+    "d": "用于创建LVM卷组",
+    "p": "vgcreate"
+  },
+  {
+    "n": "vgdisplay",
+    "d": "显示LVM卷组的信息",
+    "p": "vgdisplay"
+  },
+  {
+    "n": "vgextend",
+    "d": "向卷组中添加物理卷",
+    "p": "vgextend"
+  },
+  {
+    "n": "vgreduce",
+    "d": "从卷组中删除物理卷",
+    "p": "vgreduce"
+  },
+  {
+    "n": "vgremove",
+    "d": "用于用户删除LVM卷组",
+    "p": "vgremove"
+  },
+  {
+    "n": "vgrename",
+    "d": "使用vgrename命令可以重命名卷组的名称",
+    "p": "vgrename"
+  },
+  {
+    "n": "vgscan",
+    "d": "扫描并显示系统中的卷组",
+    "p": "vgscan"
+  },
+  {
+    "n": "vi",
+    "d": "功能强大的纯文本编辑器",
+    "p": "vi"
+  },
+  {
+    "n": "vmstat",
+    "d": "显示虚拟内存状态",
+    "p": "vmstat"
+  },
+  {
+    "n": "volname",
+    "d": "显示指定的ISO-9660格式的设备的卷名称",
+    "p": "volname"
+  },
+  {
+    "n": "w",
+    "d": "显示目前登入系统的用户信息",
+    "p": "w"
+  },
+  {
+    "n": "wait",
+    "d": "等待进程执行完后返回",
+    "p": "wait"
+  },
+  {
+    "n": "wall",
+    "d": "向系统当前所有打开的终端上输出信息",
+    "p": "wall"
+  },
+  {
+    "n": "watch",
+    "d": "可以将命令的输出结果输出到标准输出设备，多用于周期性执行命令/定时执行命令",
+    "p": "watch"
+  },
+  {
+    "n": "wc",
+    "d": "统计文件的字节数、字数、行数",
+    "p": "wc"
+  },
+  {
+    "n": "wget",
+    "d": "Linux系统下载文件工具",
+    "p": "wget"
+  },
+  {
+    "n": "whatis",
+    "d": "查询一个命令执行什么功能",
+    "p": "whatis"
+  },
+  {
+    "n": "whereis",
+    "d": "查找二进制程序、代码等相关文件路径",
+    "p": "whereis"
+  },
+  {
+    "n": "which",
+    "d": "查找并显示给定命令的绝对路径",
+    "p": "which"
+  },
+  {
+    "n": "who",
+    "d": "显示当前所有登陆用户的信息。",
+    "p": "who"
+  },
+  {
+    "n": "whoami",
+    "d": "打印当前有效的用户ID对应的名称",
+    "p": "whoami"
+  },
+  {
+    "n": "write",
+    "d": "向指定登录用户终端上发送信息",
+    "p": "write"
+  },
+  {
+    "n": "xargs",
+    "d": "给其他命令传递参数的一个过滤器",
+    "p": "xargs"
+  },
+  {
+    "n": "xauth",
+    "d": "显示和编辑被用于连接X服务器的认证信息",
+    "p": "xauth"
+  },
+  {
+    "n": "xclip",
+    "d": "管理 X 粘贴板",
+    "p": "xclip"
+  },
+  {
+    "n": "xhost",
+    "d": "制哪些X客户端能够在X服务器上显示",
+    "p": "xhost"
+  },
+  {
+    "n": "xinit",
+    "d": "是Linux下X-Window系统的初始化程序",
+    "p": "xinit"
+  },
+  {
+    "n": "xlsatoms",
+    "d": "列出X服务器内部所有定义的原子成分",
+    "p": "xlsatoms"
+  },
+  {
+    "n": "xlsclients",
+    "d": "列出显示器中的客户端应用程序",
+    "p": "xlsclients"
+  },
+  {
+    "n": "xlsfonts",
+    "d": "列出X Server使用的字体",
+    "p": "xlsfonts"
+  },
+  {
+    "n": "xrandr",
+    "d": "X 窗口系统配置管理工具",
+    "p": "xrandr"
+  },
+  {
+    "n": "xset",
+    "d": "设置X-Window系统中的用户爱好的实用工具",
+    "p": "xset"
+  },
+  {
+    "n": "xz",
+    "d": "POSIX 平台开发具有高压缩率的工具",
+    "p": "xz"
+  },
+  {
+    "n": "yes",
+    "d": "重复打印指定字符串",
+    "p": "yes"
+  },
+  {
+    "n": "ypdomainname",
+    "d": "显示主机的NIS的域名",
+    "p": "ypdomainname"
+  },
+  {
+    "n": "yum",
+    "d": "基于RPM的软件包管理器",
+    "p": "yum"
+  },
+  {
+    "n": "zcat",
+    "d": "显示压缩包中文件的内容",
+    "p": "zcat"
+  },
+  {
+    "n": "zfore",
+    "d": "强制为gzip格式的压缩文件添加.gz后缀",
+    "p": "zfore"
+  },
+  {
+    "n": "zip",
+    "d": "可以用来解压缩文件",
+    "p": "zip"
+  },
+  {
+    "n": "zipinfo",
+    "d": "用来列出压缩文件信息",
+    "p": "zipinfo"
+  },
+  {
+    "n": "zipsplit",
+    "d": "将较大的zip压缩包分割成各个较小的压缩包",
+    "p": "zipsplit"
+  },
+  {
+    "n": "znew",
+    "d": "将.Z压缩包重新转化为gzip命令压缩的.gz压缩包",
+    "p": "znew"
+  }
+]

@@ -1,0 +1,11 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+@use "sass:string";
+@use "vuetify/settings" with (
+  $body-font-family: string.unquote('"Google Sans", sans-serif'),
+  $heading-font-family: string.unquote('"Google Sans", sans-serif')
+);
